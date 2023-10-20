@@ -12,6 +12,9 @@
 
 body {
   font-family: "Montserrat";
+  
+    overflow-x: hidden;
+  
 }
 .custom-gap {
   gap: 750px;
