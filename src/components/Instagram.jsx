@@ -2,7 +2,7 @@ import React from 'react'
 
 const Instagram = () => {
   return (
-    <div className='container mx-auto mt-16'>
+    <div className='custom-container mx-auto mt-16'>
 <div className="flex justify-center items-center">
         <svg
           xmlns="http://www.w3.org/2000/svg"
@@ -37,10 +37,10 @@ const Instagram = () => {
 
 
       </div>
-      <div className="flex items-center my-12  justify-center">
+     <div className="flex items-center my-12 justify-center">
   <button
     type="button"
-    className="text-white bg-gray-900 font-vidaloka hover:bg-gray-900 focus:outline-none focus:ring-4 focus:ring-gray-300 font-medium rounded-3xl text-base px-[560px] py-3.5 mr-2 mb-2 dark:bg-gray-800 dark:hover:bg-gray-700 dark:focus:ring-gray-700 dark:border-gray-700"
+    className="text-white bg-gray-900 font-vidaloka hover:bg-gray-900 font-base rounded-3xl text-base px-[550px] py-2.5 mr-2 mb-2"
   >
     Follow Us
   </button>

@@ -2,7 +2,7 @@ import React from 'react'
 
 const Random = () => {
   return (
-    <div className='container mx-auto mt-16'>
+    <div className='custom-container mx-auto mt-16'>
 <div className="flex justify-center items-center">
         <svg
           xmlns="http://www.w3.org/2000/svg"

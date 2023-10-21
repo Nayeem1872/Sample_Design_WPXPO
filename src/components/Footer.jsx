@@ -1,5 +1,5 @@
 import React from "react";
-import LowerFooter from "./LowerFooter";
+
 
 const Footer = () => {
   return (

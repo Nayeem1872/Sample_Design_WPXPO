@@ -2,7 +2,7 @@ import React from 'react'
 
 const Ad = () => {
   return (
-    <div className='container mx-auto mt-44 flex items-center justify-center'>
+    <div className='custom-container mx-auto mt-44 flex items-center justify-center'>
 
     <img
     src='/Ad 1 (1).png'

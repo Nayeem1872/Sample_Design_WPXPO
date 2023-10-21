@@ -1,6 +1,6 @@
 import React from "react";
 import "@fontsource/montserrat";
-import LeftArrowIcon from "./LeftArrowIcon";
+
 
 const Hero = () => {
   return (

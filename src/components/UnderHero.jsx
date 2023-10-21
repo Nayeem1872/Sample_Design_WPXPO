@@ -2,7 +2,7 @@ import React from 'react';
 
 const UnderHero = () => {
   return (
-    <div className='container  mx-auto p-4 my-12'>
+    <div className='custom-container  mx-auto p-4 my-12'>
       <div className='relative flex justify-center items-start gap-8'>
         <div className='border bg-gray-700  relative cursor-pointer overflow-hidden group'>
           <img

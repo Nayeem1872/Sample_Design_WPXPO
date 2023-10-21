@@ -2,7 +2,7 @@ import React from 'react'
 
 const Popular = () => {
   return (
-    <div className='container mx-auto p-4 my-12 '> 
+    <div className='custom-container mx-auto p-4 my-12 '> 
     <div className="flex justify-center items-center">
         <svg
           xmlns="http://www.w3.org/2000/svg"
