@@ -9,7 +9,7 @@ const Sub = () => {
 
                 <div class="relative"> <input
   type="text"
-  className="bg-white h-14 w-[730px] px-9 pr-20 rounded-3xl focus:outline-none hover:cursor-pointer placeholder-black placeholder-opacity-50"
+  className="bg-white h-14 w-[730px] px-9 pr-20 rounded-3xl focus:outline-none placeholder-black placeholder-opacity-50"
   name=""
   placeholder="Enter Your Email Address"
   style={{

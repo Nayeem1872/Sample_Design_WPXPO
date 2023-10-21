@@ -40,7 +40,7 @@ const Instagram = () => {
      <div className="flex items-center my-12 justify-center">
   <button
     type="button"
-    className="text-white bg-gray-900 font-vidaloka hover:bg-gray-900 font-base rounded-3xl text-base px-[550px] py-2.5 mr-2 mb-2"
+    className="text-white bg-gray-900 font-vidaloka hover:bg-gray-900 font-base rounded-3xl text-base px-[550px] py-3 mr-2 mb-2"
   >
     Follow Us
   </button>
